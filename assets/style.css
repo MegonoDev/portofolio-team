@@ -1,0 +1,33 @@
+body {
+  background-color: #eae7e7;
+  font-family: Roboto, BlinkMacSystemFont, "Segoe UI", Oxygen, Ubuntu, Cantarell,
+    "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  color: gray;
+  overflow: hidden;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.content {
+  padding-top: 25vh !important;
+}
+
+.portfolio footer {
+  margin-top: 5vh;
+}
+
+.portfolio span {
+  font-size: 14px;
+}
+
+.card {
+  border-radius: 7px !important;
+}
+
+footer {
+  margin-top: 33vh;
+}
